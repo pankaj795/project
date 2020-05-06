@@ -1,0 +1,7 @@
+<html>
+<body style ="background-colour:black;">
+<p style="color:red;">
+linux world
+</p>
+</body>
+</html>
